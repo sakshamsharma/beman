@@ -1,4 +1,10 @@
-# Project Beman
+---
+title: Project Beman
+subtitle: The C++ library project
+layout: page
+callouts: home_callouts
+show_sidebar: true
+---
 
 The Beman Project’s [mission](docs/missionstatement.md) is to **support the efficient design and adoption of the highest quality C++ standard libraries** through implementation experience, user feedback, and technical expertise.
 

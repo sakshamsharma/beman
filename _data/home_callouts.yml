@@ -1,0 +1,15 @@
+style: is-light
+items:
+  - title: For Library Authors
+    call_to_action_name: Here
+    call_to_action_link: https://www.bemanproject.org/#
+    icon: fa-copy
+  - title: For Library Users
+    call_to_action_name: Here
+    call_to_action_link: https://www.bemanproject.org/forlibraryusers/
+    icon: fa-mail-bulk
+  - title: Mission Details
+    call_to_action_name: Here
+    call_to_action_link: https://www.bemanproject.org/mission/
+    icon: fa-github
+    icon_brand: true
